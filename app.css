@@ -151,4 +151,9 @@ p {
     #abydos, #seti {
         padding-top: 50px;
     }
+
+    .image {
+        display: flex;
+        justify-content: center;
+    }
 }
